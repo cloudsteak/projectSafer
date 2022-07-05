@@ -1,0 +1,23 @@
+{
+    "sourceDir": [
+        {
+            "name": "MaxForLive",
+            "path": "/Users/myUser/Music/Ableton/User Library/M4L",
+            "type": 0
+        },
+        {
+            "name": "Music Projects",
+            "path": "/Users/myUser/Music/Ableton/Projects",
+            "type": 1
+        },
+        {
+            "name": "Development",
+            "path": "/Users/myUser/Development",
+            "type": 1
+        }
+    ],
+    "destinationDir": "/Users/myUser/Library/CloudStorage/OneDrive-Personal/BackUp/ProjectSafer/",
+    "configuration": {
+        "logDir": "/Users/myUser/Desktop"
+    }
+}
