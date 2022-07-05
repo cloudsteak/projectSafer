@@ -1,0 +1,24 @@
+{
+  "name": "projectsafer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudsteak/projectSafer.git"
+  },
+  "keywords": [
+    "backup",
+    "cloudsteak",
+    "macos"
+  ],
+  "author": "CloudSteak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudsteak/projectSafer/issues"
+  },
+  "homepage": "https://github.com/cloudsteak/projectSafer#readme"
+}
